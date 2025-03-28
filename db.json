@@ -1,0 +1,3024 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Rau Cải Ngọt - 1Kg",
+      "description": "Ngọt",
+      "price": 15000,
+      "imageUrl": "caingot.jpg",
+      "category": "Rau củ",
+      "brand": "Nông sản Đà Lạt",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Cà Chua - 1Kg",
+      "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+      "price": 20000,
+      "imageUrl": "cachua.jpg",
+      "category": "Rau củ",
+      "brand": "Nông sản sạch Việt Nam",
+      "rating": 4.8
+    },
+    {
+      "id": "3",
+      "name": "Bắp Cải - 1Kg",
+      "description": "Bắp cải trắng size lớn",
+      "price": 18000,
+      "imageUrl": "bapcai.jpg",
+      "category": "Rau củ",
+      "brand": "Nông sản Đà Lạt",
+      "rating": 4.3
+    },
+    {
+      "id": "4",
+      "name": "Khoai Lang Tím - 1Kg",
+      "description": "Khoai lang tím Việt Nam",
+      "price": 25000,
+      "imageUrl": "khoailang.jpg",
+      "category": "Củ quả",
+      "brand": "Nông sản Vĩnh Long",
+      "rating": 4.7
+    },
+    {
+      "id": "5",
+      "name": "Cam Sành - 1Kg",
+      "description": "Cam sành ngọt, mọng nước",
+      "price": 40000,
+      "imageUrl": "camsanh.jpg",
+      "category": "Trái cây",
+      "brand": "Nông sản Hòa Bình",
+      "rating": 4.6
+    },
+    {
+      "id": "6",
+      "name": "Xoài Cát Hòa Lộc - 1Kg",
+      "description": "Xoài cát Hòa Lộc chín vàng",
+      "price": 60000,
+      "imageUrl": "xoai.jpg",
+      "category": "Trái cây",
+      "brand": "Nông sản Đồng Tháp",
+      "rating": 4.9
+    },
+    {
+      "id": "7",
+      "name": "Bưởi Da Xanh - 1Kg",
+      "description": "Bưởi da xanh Bến Tre",
+      "price": 75000,
+      "imageUrl": "buoi.jpg",
+      "category": "Trái cây",
+      "brand": "Nông sản Bến Tre",
+      "rating": 4.4
+    },
+    {
+      "id": "8",
+      "name": "Gạo ST25 - 1Kg",
+      "description": "Gạo ST25 thơm ngon, đạt giải nhất thế giới",
+      "price": 35000,
+      "imageUrl": "gaost25.jpg",
+      "category": "Gạo",
+      "brand": "Gạo Việt Nam",
+      "rating": 5
+    },
+    {
+      "id": "9",
+      "name": "Chanh Không Hạt - 1Kg",
+      "description": "Chanh tươi không hạt",
+      "price": 30000,
+      "imageUrl": "chanh.jpg",
+      "category": "Trái cây",
+      "brand": "Nông sản sạch Việt Nam",
+      "rating": 4.2
+    },
+    {
+      "id": "10",
+      "name": "Đậu Cove - 1Kg",
+      "description": "Đậu cove xanh non",
+      "price": 22000,
+      "imageUrl": "daucove.jpg",
+      "category": "Rau củ",
+      "brand": "Nông sản Đà Lạt",
+      "rating": 4.4
+    },
+    {
+      "id": "99b5",
+      "name": "Cam",
+      "description": "Cam ngọt",
+      "price": 20000,
+      "imageUrl": "camsanh.jpg",
+      "category": "Trái cây",
+      "brand": "Thương hiệu mới",
+      "rating": 4.5
+    }
+  ],
+  "cartItems": [
+    {
+      "id": "bf16",
+      "userId": "8f33",
+      "productId": "2",
+      "quantity": 8,
+      "product": {
+        "id": "2",
+        "name": "Cà Chua",
+        "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+        "price": 20000,
+        "imageUrl": "cachua.jpg",
+        "category": "Rau củ",
+        "brand": "Nông sản sạch Việt Nam",
+        "rating": 4.8
+      }
+    },
+    {
+      "id": "fe7c",
+      "userId": "8f33",
+      "productId": "1",
+      "quantity": 1
+    },
+    {
+      "id": "4d42",
+      "userId": "40e2",
+      "productId": "1",
+      "quantity": 1
+    },
+    {
+      "id": "ab59",
+      "userId": "40e2",
+      "productId": "2",
+      "quantity": 5,
+      "product": {
+        "id": "2",
+        "name": "Cà Chua",
+        "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+        "price": 20000,
+        "imageUrl": "cachua.jpg",
+        "category": "Rau củ",
+        "brand": "Nông sản sạch Việt Nam",
+        "rating": 4.8
+      }
+    },
+    {
+      "id": "f7c2",
+      "userId": "3eee",
+      "productId": "2",
+      "quantity": 8,
+      "product": {
+        "id": "2",
+        "name": "Cà Chua",
+        "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+        "price": 20000,
+        "imageUrl": "cachua.jpg",
+        "category": "Rau củ",
+        "brand": "Nông sản sạch Việt Nam",
+        "rating": 4.8
+      }
+    },
+    {
+      "id": "5f3c",
+      "userId": "3eee",
+      "productId": "4",
+      "quantity": 1
+    },
+    {
+      "id": "fe44",
+      "userId": "4db6",
+      "productId": "1",
+      "quantity": 3,
+      "product": {
+        "id": "1",
+        "name": "Rau Cải Ngọt",
+        "description": "Rau cải ngọt tươi, trồng tại Đà Lạt",
+        "price": 15000,
+        "imageUrl": "caingot.jpg",
+        "category": "Rau củ",
+        "brand": "Nông sản Đà Lạt",
+        "rating": 4.5
+      }
+    },
+    {
+      "id": "df64",
+      "userId": "4db6",
+      "productId": "5",
+      "quantity": 4,
+      "product": {
+        "id": "5",
+        "name": "Cam Sành",
+        "description": "Cam sành ngọt, mọng nước",
+        "price": 40000,
+        "imageUrl": "camsanh.jpg",
+        "category": "Trái cây",
+        "brand": "Nông sản Hòa Bình",
+        "rating": 4.6
+      }
+    },
+    {
+      "id": "87a8",
+      "userId": "e07e",
+      "productId": "5",
+      "quantity": 1
+    },
+    {
+      "id": "a75c",
+      "userId": "f358",
+      "productId": "3",
+      "quantity": 1
+    },
+    {
+      "id": "697b",
+      "userId": "7460",
+      "productId": "3",
+      "quantity": 1
+    },
+    {
+      "id": "62c5",
+      "userId": "eb41",
+      "productId": "2",
+      "quantity": 1
+    },
+    {
+      "id": "3222",
+      "userId": "a75b",
+      "productId": "3",
+      "quantity": 1
+    },
+    {
+      "id": "f3fc",
+      "userId": "6e7d",
+      "productId": "3",
+      "quantity": 1
+    },
+    {
+      "productId": "2",
+      "quantity": 3,
+      "userId": null,
+      "id": "e931"
+    },
+    {
+      "id": "a48a",
+      "userId": "5",
+      "productId": "3",
+      "quantity": 2,
+      "product": {
+        "id": "3",
+        "name": "Bắp Cải - 1Kg",
+        "description": "Bắp cải trắng size lớn",
+        "price": 18000,
+        "imageUrl": "bapcai.jpg",
+        "category": "Rau củ",
+        "brand": "Nông sản Đà Lạt",
+        "rating": 4.3
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "123",
+      "email": "nguyenvan@gmail.com",
+      "address": "123 Nguyễn Huệ, Q1, TP.HCM",
+      "phone": "0901234567",
+      "role": "user",
+      "active": false
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "456",
+      "email": "thihong@gmail.com",
+      "address": "456 Lê Lợi, Q5, TP.HCM",
+      "phone": "0912345678",
+      "role": "user",
+      "active": false
+    },
+    {
+      "id": "3",
+      "username": "user3",
+      "password": "789",
+      "email": "vanduc@gmail.com",
+      "address": "789 Trần Hưng Đạo, Hà Nội",
+      "phone": "0923456789",
+      "role": "user"
+    },
+    {
+      "id": "4",
+      "username": "user4",
+      "password": "abc",
+      "email": "newuser@gmail.com",
+      "address": "100 Trần Phú, Đà Nẵng",
+      "phone": "0934567890",
+      "role": "user"
+    },
+    {
+      "id": "5",
+      "username": "admin",
+      "password": "123",
+      "email": "vanlong@gmail.com",
+      "address": "378 Nguyễn Văn Luông, TP HCM",
+      "phone": "0903617303",
+      "role": "admin",
+      "active": false
+    }
+  ],
+  "mergeCart": [
+    {
+      "id": "be58"
+    },
+    {
+      "id": "0015",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "quantity": 2,
+          "id": "9bb9"
+        }
+      ]
+    },
+    {
+      "id": "2348",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "quantity": 2,
+          "id": "9bb9"
+        }
+      ]
+    },
+    {
+      "id": "ef97",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "quantity": 2,
+          "id": "9bb9"
+        }
+      ]
+    },
+    {
+      "id": "022a",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "userId": null,
+          "id": "5e17"
+        }
+      ]
+    },
+    {
+      "id": "3a9b",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "userId": null,
+          "id": "5e17"
+        }
+      ]
+    },
+    {
+      "id": "e9aa",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "userId": null,
+          "id": "5e17"
+        }
+      ]
+    },
+    {
+      "id": "ba08",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "userId": null,
+          "id": "5e17"
+        }
+      ]
+    },
+    {
+      "id": "1935",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "userId": null,
+          "id": "5e17"
+        }
+      ]
+    },
+    {
+      "id": "ea57",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "userId": null,
+          "id": "5e17"
+        }
+      ]
+    },
+    {
+      "id": "24bc",
+      "userId": "ae58",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "2812",
+      "userId": "ae58",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "5dac",
+      "userId": "ae58",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "c3b2",
+      "userId": "ae58",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2",
+          "product": {
+            "id": "1",
+            "name": "Rau Cải Ngọt",
+            "description": "Rau cải ngọt tươi, trồng tại Đà Lạt",
+            "price": 15000,
+            "imageUrl": "caingot.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "de8d",
+      "userId": "ae58",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "8527",
+      "userId": "ae58",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "adda",
+      "userId": "2b2e",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "afbb",
+      "userId": "2b2e",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "ae91",
+      "userId": "a55a",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "d9e5",
+      "userId": "a55a",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "a6c4",
+      "userId": "ee7c",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "2ae9",
+      "userId": "ee7c",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "6455",
+      "userId": "eb41",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "e3e2",
+      "userId": "eb41",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "121d",
+      "userId": "eb41",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "8108",
+      "userId": "eb41",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "1ca5",
+      "userId": "eb41",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2",
+          "product": {
+            "id": "1",
+            "name": "Rau Cải Ngọt",
+            "description": "Rau cải ngọt tươi, trồng tại Đà Lạt",
+            "price": 15000,
+            "imageUrl": "caingot.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "2f84",
+      "userId": "eb41",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "7a55",
+      "userId": "eb41",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "08a5",
+      "userId": "eb41",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "c5e3",
+      "userId": "9469",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "87ff",
+      "userId": "9469",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "44a6",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "e3e3",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "e660",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "24ac",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "9acb",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "1edf",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2",
+          "product": {
+            "id": "1",
+            "name": "Rau Cải Ngọt",
+            "description": "Rau cải ngọt tươi, trồng tại Đà Lạt",
+            "price": 15000,
+            "imageUrl": "caingot.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "431c",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "14cf",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "0b25",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "0db1",
+      "userId": "a75b",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "3944",
+      "userId": "6726",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "1578",
+      "userId": "6726",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "1716",
+      "userId": "2a7f",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "3ee4",
+      "userId": "2a7f",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "5372",
+      "userId": "2a7f",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "3f14",
+      "userId": "2a7f",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2",
+          "product": {
+            "id": "1",
+            "name": "Rau Cải Ngọt",
+            "description": "Rau cải ngọt tươi, trồng tại Đà Lạt",
+            "price": 15000,
+            "imageUrl": "caingot.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "ad9b",
+      "userId": "2a7f",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "2497",
+      "userId": "2a7f",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "440b",
+      "userId": "2a7f",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2",
+          "product": {
+            "id": "1",
+            "name": "Rau Cải Ngọt",
+            "description": "Rau cải ngọt tươi, trồng tại Đà Lạt",
+            "price": 15000,
+            "imageUrl": "caingot.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "4852",
+      "userId": "2a7f",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "64a3",
+      "userId": "d82c",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "b739",
+      "userId": "d82c",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "f836",
+      "userId": "06f2",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "cede",
+      "userId": "06f2",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "b0f7",
+      "userId": "71ff",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "6969",
+      "userId": "71ff",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "5212",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "21ba",
+      "userId": "8a3d",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "e156",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "5c10",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "c1ff",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "a216",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "cf04",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "9e37",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2",
+          "product": {
+            "id": "1",
+            "name": "Rau Cải Ngọt",
+            "description": "Rau cải ngọt tươi, trồng tại Đà Lạt",
+            "price": 15000,
+            "imageUrl": "caingot.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "4238",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "d717",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "userId": null,
+          "id": "09e2"
+        }
+      ]
+    },
+    {
+      "id": "312a",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "6f71",
+          "userId": null,
+          "productId": "2",
+          "quantity": 2,
+          "product": {
+            "id": "2",
+            "name": "Cà Chua - 1Kg",
+            "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+            "price": 20000,
+            "imageUrl": "cachua.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản sạch Việt Nam",
+            "rating": 4.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "0784",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "6f71",
+          "userId": null,
+          "productId": "2",
+          "quantity": 2,
+          "product": {
+            "id": "2",
+            "name": "Cà Chua - 1Kg",
+            "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+            "price": 20000,
+            "imageUrl": "cachua.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản sạch Việt Nam",
+            "rating": 4.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "4ca9",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "6f71",
+          "userId": null,
+          "productId": "2",
+          "quantity": 2,
+          "product": {
+            "id": "2",
+            "name": "Cà Chua - 1Kg",
+            "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+            "price": 20000,
+            "imageUrl": "cachua.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản sạch Việt Nam",
+            "rating": 4.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "3125",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "6f71",
+          "userId": null,
+          "productId": "2",
+          "quantity": 2,
+          "product": {
+            "id": "2",
+            "name": "Cà Chua - 1Kg",
+            "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+            "price": 20000,
+            "imageUrl": "cachua.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản sạch Việt Nam",
+            "rating": 4.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "be42",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "7b7a",
+          "userId": null,
+          "productId": "3",
+          "quantity": 2,
+          "product": {
+            "id": "3",
+            "name": "Bắp Cải - 1Kg",
+            "description": "Bắp cải trắng size lớn",
+            "price": 18000,
+            "imageUrl": "bapcai.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "cbd7",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "7b7a",
+          "userId": null,
+          "productId": "3",
+          "quantity": 2,
+          "product": {
+            "id": "3",
+            "name": "Bắp Cải - 1Kg",
+            "description": "Bắp cải trắng size lớn",
+            "price": 18000,
+            "imageUrl": "bapcai.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "dbf9",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "7b7a",
+          "userId": null,
+          "productId": "3",
+          "quantity": 2,
+          "product": {
+            "id": "3",
+            "name": "Bắp Cải - 1Kg",
+            "description": "Bắp cải trắng size lớn",
+            "price": 18000,
+            "imageUrl": "bapcai.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "a354",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "7b7a",
+          "userId": null,
+          "productId": "3",
+          "quantity": 2,
+          "product": {
+            "id": "3",
+            "name": "Bắp Cải - 1Kg",
+            "description": "Bắp cải trắng size lớn",
+            "price": 18000,
+            "imageUrl": "bapcai.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "54a7",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "7b7a",
+          "userId": null,
+          "productId": "3",
+          "quantity": 2,
+          "product": {
+            "id": "3",
+            "name": "Bắp Cải - 1Kg",
+            "description": "Bắp cải trắng size lớn",
+            "price": 18000,
+            "imageUrl": "bapcai.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "3060",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "id": "7b7a",
+          "userId": null,
+          "productId": "3",
+          "quantity": 2,
+          "product": {
+            "id": "3",
+            "name": "Bắp Cải - 1Kg",
+            "description": "Bắp cải trắng size lớn",
+            "price": 18000,
+            "imageUrl": "bapcai.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản Đà Lạt",
+            "rating": 4.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "abae",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "60cc",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "21c6",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "1d41",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931",
+          "product": {
+            "id": "2",
+            "name": "Cà Chua - 1Kg",
+            "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+            "price": 20000,
+            "imageUrl": "cachua.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản sạch Việt Nam",
+            "rating": 4.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "b816",
+      "userId": "1",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "48a1",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "c619",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "ff03",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "4b1d",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "1f39",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "5526",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "f371",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "8095",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931",
+          "product": {
+            "id": "2",
+            "name": "Cà Chua - 1Kg",
+            "description": "Cà chua đỏ tươi, không thuốc trừ sâu",
+            "price": 20000,
+            "imageUrl": "cachua.jpg",
+            "category": "Rau củ",
+            "brand": "Nông sản sạch Việt Nam",
+            "rating": 4.8
+          }
+        }
+      ]
+    },
+    {
+      "id": "0048",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "001c",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "9a63",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "252b",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "82ec",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    },
+    {
+      "id": "2493",
+      "userId": "5",
+      "guestCartItems": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "userId": null,
+          "id": "e931"
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "id": "3dd2"
+    },
+    {
+      "id": "e02e",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "40e2",
+      "email": "dovanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "182f",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4172",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "128a",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "7422",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "533e",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4aa9",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ca64",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "7e88",
+      "email": "vanlong@gmail.com",
+      "password": "1233"
+    },
+    {
+      "id": "9503",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5a40",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e460",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "e620",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "d324",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "393e",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "f5f3",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "d0a9",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "7f5f",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "1f9f",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "245b",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "34de",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "8906",
+      "email": "vanduc@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "b4bd",
+      "email": "vanlong@gmail.com",
+      "password": "1233"
+    },
+    {
+      "id": "5fe3",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "b95c",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "9fbe",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4c33",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2aa3",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "bdbd",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "18b5",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3eee",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "de9d",
+      "password": "123"
+    },
+    {
+      "id": "2d11",
+      "password": "123"
+    },
+    {
+      "id": "a04a",
+      "password": "123"
+    },
+    {
+      "id": "925b",
+      "password": "123"
+    },
+    {
+      "id": "b963",
+      "password": "123"
+    },
+    {
+      "id": "ca5a",
+      "password": "123"
+    },
+    {
+      "id": "d113",
+      "password": "123"
+    },
+    {
+      "id": "c668",
+      "password": "123"
+    },
+    {
+      "id": "211a",
+      "password": "1233"
+    },
+    {
+      "id": "55a0",
+      "password": "1233"
+    },
+    {
+      "id": "9cf3",
+      "password": "123"
+    },
+    {
+      "id": "180a",
+      "password": "123"
+    },
+    {
+      "id": "9796",
+      "password": "123"
+    },
+    {
+      "id": "54f4",
+      "password": "123"
+    },
+    {
+      "id": "4b41",
+      "password": "123"
+    },
+    {
+      "id": "5841",
+      "password": "123"
+    },
+    {
+      "id": "6a3b",
+      "password": "123"
+    },
+    {
+      "id": "b772",
+      "password": "123"
+    },
+    {
+      "id": "9656",
+      "password": "123"
+    },
+    {
+      "id": "711d",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5ccb",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "f80f",
+      "email": "vanlong@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "981e",
+      "password": "123"
+    },
+    {
+      "id": "4316",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "cc87",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "e07e",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "f358",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "7460",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "396c",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "ae58",
+      "email": "user1",
+      "password": "123"
+    },
+    {
+      "id": "2b2e",
+      "email": "admin",
+      "password": "123"
+    },
+    {
+      "id": "a55a",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "ee7c",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "eb41",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "9469",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "a75b",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "6726",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "2a7f",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "d82c",
+      "username": "user1",
+      "password": "123"
+    },
+    {
+      "id": "06f2",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "71ff",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "8a3d",
+      "username": "admin",
+      "password": "123"
+    }
+  ],
+  "register": [
+    {
+      "id": "b471",
+      "username": "vanlong156",
+      "email": "dovanlong@gmail.com",
+      "password": "123",
+      "address": "123",
+      "phone": "0123123"
+    },
+    {
+      "id": "b9aa",
+      "username": "vanlong156",
+      "email": "dovanlong@gmail.com",
+      "password": "123",
+      "address": "hcm",
+      "phone": "0123123"
+    },
+    {
+      "id": "4db6",
+      "username": "an",
+      "email": "dovanlong@gmail.com",
+      "password": "123",
+      "address": "hcm",
+      "phone": "0123123"
+    },
+    {
+      "id": "e4f7",
+      "username": "an",
+      "email": "dovanlong@gmail.com",
+      "password": "123",
+      "address": "hcm",
+      "phone": "0123123"
+    },
+    {
+      "id": "de0f",
+      "username": "long",
+      "email": "long@gmail.com",
+      "password": "123",
+      "address": "378 nguyễn văn luông",
+      "phone": "0123123"
+    },
+    {
+      "id": "6e7d",
+      "username": "long",
+      "email": "long@gmail.com",
+      "password": "123",
+      "address": "378 nguyễn văn luông",
+      "phone": "0123123"
+    }
+  ],
+  "orders": [
+    {
+      "id": "b848",
+      "status": "Đã hủy"
+    },
+    {
+      "id": "6938",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 88000,
+      "shippingAddress": "dasdkoajgo",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "123",
+      "status": "Đã hủy",
+      "orderDate": "2024-11-12T03:08:37.329Z"
+    },
+    {
+      "id": "5d67",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 88000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "123",
+      "status": "Đã hủy",
+      "orderDate": "2024-11-12T03:10:48.331Z"
+    },
+    {
+      "id": "011f",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 161000,
+      "shippingAddress": "378 Nguyễn Văn Luông, TP HCM",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0903617303",
+      "status": "Đã giao",
+      "orderDate": "2024-11-13T03:18:35.203Z"
+    },
+    {
+      "id": "a2ec",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 176000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-13T16:33:15.292Z"
+    },
+    {
+      "id": "1578",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 176000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-13T16:42:22.540Z"
+    },
+    {
+      "id": "5dc1",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 176000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-13T16:53:38.265Z"
+    },
+    {
+      "id": "8a81",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 176000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-13T17:25:10.978Z"
+    },
+    {
+      "id": "a556",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 176000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-13T17:29:17.329Z"
+    },
+    {
+      "id": "b0bf",
+      "userId": "4db6",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 3,
+          "price": 15000
+        },
+        {
+          "productId": "5",
+          "quantity": 4,
+          "price": 40000
+        }
+      ],
+      "totalAmount": 205000,
+      "shippingAddress": "hcm",
+      "name": "an",
+      "email": "dovanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-14T03:24:50.608Z"
+    },
+    {
+      "id": "b570",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 4,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 3,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 132000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "Đã giao",
+      "orderDate": "2024-11-16T19:20:51.387Z"
+    },
+    {
+      "id": "33f4",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 38000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T19:34:38.838Z"
+    },
+    {
+      "id": "ee62",
+      "userId": "5",
+      "items": [],
+      "totalAmount": 0,
+      "paymentMethod": "credit_card",
+      "cardNumber": "1233",
+      "bankAccount": null,
+      "status": "completed",
+      "orderDate": "2024-11-16T19:36:18.374Z",
+      "confirmed": true
+    },
+    {
+      "id": "71ea",
+      "userId": "e07e",
+      "items": [
+        {
+          "productId": "5",
+          "quantity": 1,
+          "price": 40000
+        }
+      ],
+      "totalAmount": 40000,
+      "paymentMethod": "bank_transfer",
+      "cardNumber": null,
+      "bankAccount": "123",
+      "status": "completed",
+      "orderDate": "2024-11-16T20:00:05.711Z",
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "user1",
+      "email": "dovanlong7303@gmail.com",
+      "phone": "0123123"
+    },
+    {
+      "id": "d814",
+      "userId": "f358",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 18000,
+      "paymentMethod": "bank_transfer",
+      "cardNumber": null,
+      "bankAccount": "123",
+      "status": "completed",
+      "orderDate": "2024-11-16T20:01:34.174Z",
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "user1",
+      "email": "dovanlong7303@gmail.com",
+      "phone": "0123123"
+    },
+    {
+      "id": "4cf3",
+      "userId": "7460",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 18000,
+      "paymentMethod": "bank_transfer",
+      "cardNumber": null,
+      "bankAccount": "123",
+      "status": "completed",
+      "orderDate": "2024-11-16T20:02:19.165Z",
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "user1",
+      "email": "dovanlong7303@gmail.com",
+      "phone": "0123123",
+      "confirmed": true
+    },
+    {
+      "id": "5df8",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 38000,
+      "paymentMethod": "bank_transfer",
+      "cardNumber": null,
+      "bankAccount": "123",
+      "status": "completed",
+      "orderDate": "2024-11-16T20:09:19.844Z",
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123"
+    },
+    {
+      "id": "6521",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 56000,
+      "paymentMethod": "bank_transfer",
+      "cardNumber": null,
+      "bankAccount": "123",
+      "status": "completed",
+      "orderDate": "2024-11-16T20:47:01.091Z",
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123"
+    },
+    {
+      "id": "93e8",
+      "userId": "5",
+      "items": [],
+      "totalAmount": 0,
+      "paymentMethod": "bank_transfer",
+      "cardNumber": null,
+      "bankAccount": "123",
+      "status": "completed",
+      "orderDate": "2024-11-16T20:52:02.107Z",
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123"
+    },
+    {
+      "id": "d123",
+      "userId": "5",
+      "items": [],
+      "totalAmount": 0,
+      "paymentMethod": "bank_transfer",
+      "cardNumber": null,
+      "bankAccount": "1233",
+      "status": "completed",
+      "orderDate": "2024-11-16T20:54:48.020Z",
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123"
+    },
+    {
+      "id": "0c2b",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 4,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 92000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:03:44.559Z"
+    },
+    {
+      "id": "e2b2",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 4,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 92000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:04:41.961Z"
+    },
+    {
+      "id": "1a55",
+      "userId": "5",
+      "items": [],
+      "totalAmount": 0,
+      "paymentMethod": "bank_transfer",
+      "cardNumber": null,
+      "bankAccount": "123",
+      "status": "completed",
+      "orderDate": "2024-11-16T21:05:01.379Z"
+    },
+    {
+      "id": "8383",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 4,
+          "price": 18000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 92000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:11:50.887Z"
+    },
+    {
+      "id": "6968",
+      "userId": "ae58",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 30000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "Vân Long",
+      "email": "user1@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:17:41.630Z"
+    },
+    {
+      "id": "78fa",
+      "userId": "eb41",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        },
+        {
+          "productId": "2",
+          "quantity": 1,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 50000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:21:39.797Z"
+    },
+    {
+      "id": "7e9e",
+      "userId": "a75b",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        },
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 48000,
+      "shippingAddress": "123",
+      "name": "admin",
+      "email": "user1@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:23:59.151Z"
+    },
+    {
+      "id": "eee1",
+      "userId": "2a7f",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 30000,
+      "shippingAddress": "doaksjg",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:26:01.820Z"
+    },
+    {
+      "id": "305e",
+      "userId": "2a7f",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 30000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "user1",
+      "email": "dovanlong7303@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:26:29.950Z"
+    },
+    {
+      "id": "ee07",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 30000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:30:49.147Z"
+    },
+    {
+      "id": "819b",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 6,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 108000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:40:25.187Z"
+    },
+    {
+      "id": "3347",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 6,
+          "price": 18000
+        },
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 15000
+        }
+      ],
+      "totalAmount": 123000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "pending",
+      "orderDate": "2024-11-16T21:47:57.958Z"
+    },
+    {
+      "id": "18be",
+      "userId": "1",
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 3,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 54000,
+      "discountAmount": 5400,
+      "finalAmount": 48600,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "user1",
+      "email": "vanlong1@gmail.com",
+      "phone": "0123123",
+      "status": "Đã hủy",
+      "orderDate": "2024-11-16T22:40:29.564Z"
+    },
+    {
+      "id": "388a",
+      "userId": "1",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 2,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 40000,
+      "discountAmount": 8000,
+      "finalAmount": 32000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "user1",
+      "email": "vanlong1@gmail.com",
+      "phone": "0123123",
+      "status": "Đã hủy",
+      "orderDate": "2024-11-20T03:14:12.460Z"
+    },
+    {
+      "id": "0dd8",
+      "userId": "1",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 2,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 76000,
+      "discountAmount": 10800,
+      "finalAmount": 65200,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "user1",
+      "email": "vanlong1@gmail.com",
+      "phone": "0123123",
+      "status": "Đã hủy",
+      "orderDate": "2024-11-21T02:46:08.113Z"
+    },
+    {
+      "id": "90cd",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "price": 20000
+        },
+        {
+          "productId": "3",
+          "quantity": 2,
+          "price": 18000
+        }
+      ],
+      "totalAmount": 96000,
+      "discountAmount": 0,
+      "finalAmount": 96000,
+      "shippingAddress": "378 nguyễn văn luông",
+      "name": "admin",
+      "email": "vanlong@gmail.com",
+      "phone": "0123123",
+      "status": "Đã giao",
+      "orderDate": "2024-11-21T04:35:49.048Z"
+    }
+  ],
+  "discounts": [
+    {
+      "id": "1",
+      "code": "DISCOUNT10",
+      "type": "percentage",
+      "value": 10,
+      "description": "Giảm 10% cho đơn hàng"
+    },
+    {
+      "id": "2",
+      "code": "FIXED50000",
+      "type": "fixed",
+      "value": 50000,
+      "description": "Giảm 50,000 VND cho đơn hàng"
+    }
+  ]
+}
