@@ -247,12 +247,6 @@
       "quantity": 1
     },
     {
-      "productId": "2",
-      "quantity": 3,
-      "userId": null,
-      "id": "e931"
-    },
-    {
       "id": "a48a",
       "userId": "5",
       "productId": "3",
@@ -3001,8 +2995,29 @@
       "name": "admin",
       "email": "vanlong@gmail.com",
       "phone": "0123123",
+      
       "status": "Đã giao",
       "orderDate": "2024-11-21T04:35:49.048Z"
+    },
+    {
+      "id": "70b7",
+      "userId": "1",
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 3,
+          "price": 20000
+        }
+      ],
+      "totalAmount": 60000,
+      "discountAmount": 6000,
+      "finalAmount": 54000,
+      "shippingAddress": "123 Nguyễn Huệ, Q1, TP.HCM",
+      "name": "user1",
+      "email": "nguyenvan@gmail.com",
+      "phone": "0901234567",
+      "status": "pending",
+      "orderDate": "2025-06-13T03:28:42.314Z"
     }
   ],
   "discounts": [
