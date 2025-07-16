@@ -250,7 +250,7 @@
       "id": "a48a",
       "userId": "5",
       "productId": "3",
-      "quantity": 2,
+      "quantity": 3,
       "product": {
         "id": "3",
         "name": "Bắp Cải - 1Kg",
@@ -2995,7 +2995,6 @@
       "name": "admin",
       "email": "vanlong@gmail.com",
       "phone": "0123123",
-      
       "status": "Đã giao",
       "orderDate": "2024-11-21T04:35:49.048Z"
     },
