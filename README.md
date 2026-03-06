@@ -38,6 +38,7 @@ Backend
 /Database
 
 
+
 ## Installation
 
 1. Clone repository
@@ -47,6 +48,25 @@ Backend
 3. Configure database connection
 
 4. Run the project
+
+
+## Run the project
+
+1. Clone repository
+
+git clone https://github.com/dovanlong0310/Agricultural-Products-Website
+
+2. Install dependencies
+
+npm install
+
+3. Run json-server
+
+json-server --watch db.json --port 3000
+
+4. Run frontend
+
+npm run serve
 
 ## Author
 
