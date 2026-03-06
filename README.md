@@ -1,24 +1,56 @@
-# ddd
+# Agricultural Products Website
 
-## Project setup
-```
-yarn install
-```
+A web-based platform for selling and managing agricultural products online.  
+The system allows users to browse products, manage shopping carts, and place orders, while administrators can manage products, categories, and orders.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Features
 
-### Compiles and minifies for production
-```
-yarn build
-```
+User
+- Browse agricultural products
+- Search and filter products
+- View product details
+- Add products to cart
+- Place orders
 
-### Lints and fixes files
-```
-yarn lint
-```
+Admin
+- Manage products (create, update, delete)
+- Manage product categories
+- Manage orders
+- Manage users
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tech Stack
+
+Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+Backend
+- ASP.NET / C#
+- MVC Architecture
+
+Database
+- SQL Server
+
+## Project Structure
+
+/Controllers
+/Models
+/Views
+/Database
+
+
+## Installation
+
+1. Clone repository
+
+2. Open project in Visual Studio
+
+3. Configure database connection
+
+4. Run the project
+
+## Author
+
+Van Long
