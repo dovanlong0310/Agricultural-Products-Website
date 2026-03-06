@@ -27,11 +27,8 @@ Frontend
 - Bootstrap
 
 Backend
-- ASP.NET / C#
-- MVC Architecture
-
-Database
-- SQL Server
+- Mock REST API using JSON Server with db.json
+- db.json (fake database)
 
 ## Project Structure
 
